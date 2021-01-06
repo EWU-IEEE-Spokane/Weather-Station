@@ -12,6 +12,7 @@ Hardware
 
 * Raspberry Pi Zero-W
 * Micro-SD card
+* A computer with an SD card slot or a USB micro-SD card adapter
 
 .. note::
     For the following items, there are alternatives, but this is what this guide will cover.
