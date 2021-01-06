@@ -11,7 +11,7 @@ Welcome to Weather-Station's documentation!
    :caption: Contents:
 
    Getting Started <getting_started>
-   Project Updates <project_updates>
+.. Project Updates <project_updates>
 
 
 Indices and tables

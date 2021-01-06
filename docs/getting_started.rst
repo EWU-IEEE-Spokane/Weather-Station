@@ -8,7 +8,7 @@ Project materials
 -----------------
 
 Hardware
-********
+^^^^^^^^
 
 * Raspberry Pi Zero-W
 * Micro-SD card
@@ -29,7 +29,7 @@ Hardware
 No mouse is required, because we aren't using a linux distribution with a desktop environment.
 
 Installing the OS
-*****************
+^^^^^^^^^^^^^^^^^
 
 For this project, we will be using Raspbian Pi OS Lite. To install the OS on the Pi, use the `official guide <https://www.raspberrypi.org/documentation/installation/installing-images/>`_.
 
