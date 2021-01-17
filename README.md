@@ -11,3 +11,5 @@ Our readthedocs page has instructions to getting set up
 We reviewed the design document we made weeks ago
 We also took a look at the Django documentation--the web framework we will be using for data storage and presentation
 The goal for the first couple weeks is to have everyone get set up with a Raspberry Pi and Raspbian Lite OS
+
+# Minutes 1/17/21
